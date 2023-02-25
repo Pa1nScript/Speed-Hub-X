@@ -1,0 +1,46 @@
+if game.PlaceId == 3101667897 then -- legends Of Speed
+  loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Legends-of-speed"))()
+end
+if game.PlaceId == 3232996272 then -- Space legends Of Speed
+  loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Legends-of-speed"))()
+end
+if game.PlaceId == 3276265788 then -- Desert legends Of Speed
+  loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Legends-of-speed"))()
+end
+if game.PlaceId == 3623096087 then -- Muscle legends
+  loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Muscle-Legends"))()
+end
+if game.PlaceId == 3956818381 then -- Ninja Legends
+  loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Ninja-Legends"))()
+end
+if game.PlaceId == 9834528893 then -- +1 Jump Every Second
+  loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/%2B1-Jump-Every-Second"))()
+end
+if game.PlaceId == 8507479511 then -- Higher Jump Every Second
+  loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Higher-Jump-Every-Second"))()
+end
+if game.PlaceId == 11063612131 then -- Every Second You Get +1 Jump Power
+  loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Every-Second-You-Get-%2B1-Jump-Power"))()
+end
+if game.PlaceId == 6679968919 then -- Fly Race
+  loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Fly-Race"))()
+end
+if game.PlaceId == 2753915549 then -- Blox Fruit OLD Worlds
+  loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Blox-Fruit"))()
+end
+if game.PlaceId == 4442272183 then -- Blox Fruit v1 worlds
+  loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Blox-Fruit"))()
+end
+if game.PlaceId == 7449423635 then -- Blox Fruit v2 worlds
+  loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Blox-Fruit"))()
+end
+if game.PlaceId == 6516141723 then -- Doors
+  loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Doors"))()
+end
+if game.PlaceId == 6839171747 then -- Doors
+  loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Doors"))()
+end
+if game.PlaceId == 920587237 then -- Adopt Me
+  loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Adopt-Me"))()
+end
+
